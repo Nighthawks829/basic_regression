@@ -17,3 +17,7 @@ Predict the Strength of the Concrete Based on the Components and Other Factors a
 - FineAggregateComponent:- Amount of Coarse Aggregate is mixed
 - AgeInDays:- How many days it was left dry
 - Strength:- What was the final strength of concrete- (Target)
+
+In a regression problem, the aim is to predict the output of a continuous value, like a price or a probability, Contrast this with a classifcation problem, where the aim is to select a class from a list of classes (for example, where a picture contains a apple or an orange, recognizing which fruis is in the picture)
+</br></br>
+This notebook uses the **Conreate Strength** dataset build models to predict the strength of concrete. This notebooks uses the Keras API.
